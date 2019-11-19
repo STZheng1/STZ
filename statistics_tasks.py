@@ -1,3 +1,8 @@
+#import libraries
+import numpy as np
+import matplotlib.pyplot as plt
+from random import randint
+
 #Task 1: Generating a histogram for binomial distribution
 '''
 Generate 1000 fair coin toss trials
